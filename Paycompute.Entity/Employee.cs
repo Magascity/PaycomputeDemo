@@ -1,7 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Paycompute.Entity
+namespace PaycomputeDemo.Entity
 {
+
     public class Employee
     {
         public int Id { get; set; }

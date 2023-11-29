@@ -6,8 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Paycompute.Entity
+namespace PaycomputeDemo.Entity
 {
+    
     public class PaymentRecord
     {
         public int Id { get; set; }

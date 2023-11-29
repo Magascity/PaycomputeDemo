@@ -16,12 +16,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Paycompute.Entity\Paycompute.Entity.csproj" />
-    <ProjectReference Include="..\Paycompute.Services\Paycompute.Services.csproj" />
+    <Folder Include="Data\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
+    <ProjectReference Include="..\Paycompute.Entity\PaycomputeDemo.Entity.csproj" />
+    <ProjectReference Include="..\Paycompute.Services\PaycomputeDemo.Services.csproj" />
   </ItemGroup>
 
 </Project>

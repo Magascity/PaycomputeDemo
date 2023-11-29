@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Paycompute.Entity
+namespace PaycomputeDemo.Entity
 {
     public enum StudentLoan
     {
